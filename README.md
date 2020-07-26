@@ -24,6 +24,9 @@ _Note: Top Languages shows usage of specific languages in my projects, not my sk
 <a href="https://www.instagram.com/arkhodakov/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.twitter.com/arkhodakov/">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://t.me/artemkhodakov">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
