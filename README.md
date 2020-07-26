@@ -13,7 +13,7 @@ _Note: Top Languages shows usage of specific languages in my projects, not my sk
 </a>
 
 ## Social. Contact me if you have some great ideas :cloud:
- - Business communication (and experience info) in [LinkedIn ![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/artemkhodakov/)
+ - Business communication (and experience info) in [LinkedIn ![LinkedIn](https://raw.githubusercontent.com/arkhodakov/arkhodakov/master/assets/linkedin.svg)](https://www.linkedin.com/in/artemkhodakov/)
  - For any other reason please contact me in [Telegram](https://t.me/artemkhodakov) or by public email :mailbox_with_mail:
 
 <!--
