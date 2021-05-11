@@ -3,12 +3,6 @@
 
 I'm a software engineer who is enthusiastic about solving valuable business tasks. I enjoy working with machine learning technologies, especially computer vision technologies, developing software for collecting data about the world around me. I spend time studying ways of analysis of such data in order to make my projects not only collecting data but processing in and making decisions out of it.
 
-_Note: Top Languages shows usage of specific languages in my projects, not my skills._
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkhodakov&hide=css" />
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arkhodakov&show_icons=true&count_private=true&line_height=27" alt="Anurag's github stats" />
 </a>
